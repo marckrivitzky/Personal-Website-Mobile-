@@ -28,9 +28,9 @@ import ModalArt from "./modalArt";
 				<h2 className="art-title"> Photoshop Art </h2>
 				<div className="coding-projects">
 					<br />
-
+					<div className="drawings">
 					<div class="row">
-						<div className="drawings">
+						
 							
 							<div class="col">
 								<img src={drawing1} width="317px" height="317px" id="drawing-7"/>	

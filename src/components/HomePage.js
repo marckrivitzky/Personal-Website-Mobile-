@@ -27,7 +27,7 @@ import {Card} from 'react-bootstrap'
 				<NavBar />
 				<br/>
 				<div className="home-page-card">					
-					<Card style={{ width: '29rem', borderRadius: '25px', backgroundColor: "mediumaquamarine" }}>
+					<Card style={{ width: '22rem', borderRadius: '25px', backgroundColor: "mediumaquamarine" }}>
 					  <img src={Marc} className="marc-image" width="178.57px" height="250px" alt="marc" borderRadius='25px' />
 						  
 					  <Card.Body>

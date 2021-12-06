@@ -16,7 +16,7 @@ code {
 .marc-image{
 position: relative;
 top: 20px;
-left: 140px;
+left: 70px;
 border-radius: 50%;
 }
 
@@ -73,7 +73,7 @@ border: 7px solid  darkblue;
 border-radius: 30px;
 position: relative;
 border: 7px solid  darkblue;
-right: 580px;
+right: 500px;
 }
 
 
@@ -105,68 +105,7 @@ color: darkblue;
 
 /* ____________________start of art page______________________ */
 
-#drawing-1:hover{
-position: relative;
-transform: scale(1.45);
-z-index: 1;
-}
 
-#drawing-2:hover{
-position: relative;
-transform: scale(1.45);
-z-index: 1;
-}
-#drawing-3:hover{
-position: relative;
-transform: scale(1.45);
-z-index: 1;
-}
-#drawing-4:hover{
-position: relative;
-transform: scale(1.45);
-z-index: 1;
-}
-#drawing-5:hover{
-position: relative;
-transform: scale(1.45);
-z-index: 1;
-}
-#drawing-6:hover{
-position: relative;
-transform: scale(1.45);
-z-index: 1;
-}
-#drawing-7:hover{
-position: relative;
-transform: scale(1.45);
-z-index: 1;
-}
-#drawing-8:hover{
-position: relative;
-transform: scale(1.45);
-z-index: 1;
-}
-#drawing-9:hover{
-position: relative;
-transform: scale(1.45);
-z-index: 1;
-}
-
-#drawing-10:hover{
-position: relative;
-transform: scale(1.45);
-z-index: 1;
-}
-#drawing-11:hover{
-position: relative;
-transform: scale(1.45);
-z-index: 1;
-}
-#drawing-12:hover{
-position: relative;
-transform: scale(1.45);
-z-index: 1;
-}
 
 .lil-dicky{
 position: relative;
@@ -337,7 +276,7 @@ color: darkblue;
 background-color: darkgray;
 width: 400px;
 height: 45px;
-left: 560px;
+
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 

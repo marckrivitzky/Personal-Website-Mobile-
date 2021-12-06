@@ -26,7 +26,7 @@ class Resume extends PureComponent{
 					<div class="col">
 						<div className="resume-card">
 							<br />
-							<img src={resume} width="307.725px" height="400px" className="resume-image"/>
+							<img src={resume} width="410px" height="533px" className="resume-image"/>
 							
 							<br /><br/>
 					
