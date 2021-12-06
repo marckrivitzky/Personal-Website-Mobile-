@@ -77,10 +77,6 @@ border: 7px solid  darkblue;
 
 
 
-.coding-projects{
-position: relative;
-left: 18px;
-}
 
 
 .coding-project-description{
@@ -275,7 +271,7 @@ color: darkblue;
 background-color: darkgray;
 width: 300px;
 height: 45px;
-
+left: 25px;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
@@ -316,9 +312,9 @@ text-align: center;
 }
 
 .link-to-resume{
-position: relative;
+
 color: white;
-right: 580px;
+
 }
 
 /* __________EYE SPY PAGE________________________________________ */
