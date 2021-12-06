@@ -16,7 +16,7 @@ code {
 .marc-image{
 position: relative;
 top: 20px;
-left: 70px;
+left: 78px;
 border-radius: 50%;
 }
 
@@ -273,7 +273,7 @@ position: relative;
 border-radius: 30px;
 color: darkblue;
 background-color: darkgray;
-width: 400px;
+width: 300px;
 height: 45px;
 
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -462,7 +462,7 @@ font-family: cursive;
 }
 
 .directions-description2{
-font-family: cursive;
+font-family: 'Times New Roman', Times, serif
 }
 
 .modal-two-container{
