@@ -28,6 +28,8 @@ import ModalArt from "./modalArt";
 				<h2 className="art-title"> Photoshop Art </h2>
 				<div className="coding-projects">
 					<br />
+					<ModalArt />
+					<br />
 					<div className="drawings">
 					<div class="row">
 						
